@@ -1,3 +1,4 @@
+// honestly just putting this here because it takes up so much vertical space on my MacBook
 export const renameReceipit = `You are tasked with naming a receipt image according to a specific convention. Your goal is to extract key information from the image and use it to create a standardized filename.
 
 Carefully examine the image and identify the following information:

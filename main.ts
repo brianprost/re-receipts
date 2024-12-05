@@ -1,7 +1,7 @@
 import {
   BedrockRuntimeClient,
   ConverseCommand,
-} from "@aws-sdk/client-bedrock-runtime";
+} from "npm:@aws-sdk/client-bedrock-runtime";
 import { renameReceipit } from "./prompts.ts";
 
 export const CONFIG = {
