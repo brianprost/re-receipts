@@ -1,6 +1,6 @@
 # re-recipts
 
-This script uses Amazon Nova's image analysis capabilities to intelligently rename receipt images based on their contents. I built this for keeping track of all of my recipts for re:invent 2024.
+This script uses Amazon Nova's image analysis capabilities to rename receipt images based on their contents. I built this for keeping track of all of my recipts for re:invent 2024.
 
 ## Usage
 
@@ -9,7 +9,7 @@ This script uses Amazon Nova's image analysis capabilities to intelligently rena
 1. Install [Deno](https://deno.com/)
 2. ~~Install all of the node modules~~ jk you're using Deno so you don't have to do that.
 3. Make sure you have authenticated your CLI to AWS and that you have access to Amazon's New Nova models (we're using **Nova Pro** for this script)
-4. Freshly brewed coffee.
+4. Freshly brewed coffee (or Earl Grey tea)
 
 ### Instructions
 
